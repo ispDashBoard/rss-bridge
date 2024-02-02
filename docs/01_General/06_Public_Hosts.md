@@ -2,6 +2,7 @@
 
 | Country | Address | Status |  Contact | Comment |
 |:-------:|---------|--------|----------|---------|
+| ![](https://iplookup.flagfox.net/images/h16/GB.png) | https://rssbridge.ispdashboard.com/ | ![](https://img.shields.io/website/https/rss-bridge.org/bridge01.svg) | [@ispDashBoard](https://github.com/ispDashBoard) | London, UK, ispDashboard.com|
 | ![](https://iplookup.flagfox.net/images/h16/GB.png) | https://rss-bridge.org/bridge01 | ![](https://img.shields.io/website/https/rss-bridge.org/bridge01.svg) | [@dvikan](https://github.com/dvikan) | London, Digital Ocean|
 | ![](https://iplookup.flagfox.net/images/h16/FR.png) | https://rssbridge.flossboxin.org.in/ | ![](https://img.shields.io/badge/website-up-brightgreen) | [@vdbhb59](https://github.com/vdbhb59) | Hosted with OVH SAS (Maintained in India) |
 | ![](https://iplookup.flagfox.net/images/h16/FR.png) | https://rss-bridge.cheredeprince.net/ | ![](https://img.shields.io/website/https/rss-bridge.cheredeprince.net) | [@La_Bécasse](https://cheredeprince.net/contact) | Self-Hosted at home in France |
